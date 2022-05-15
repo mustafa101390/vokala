@@ -1,0 +1,79 @@
+
+*{    direction: rtl;}
+.spanstatus_success{font-family:IRANSans;font-size:23px;font-style:normal;font-weight:bold;}
+.iframedate{
+    direction: ltr;
+    color: #005e3a;
+    font-size: 13px;
+    font-family: 'IRANSansbold';
+    padding-left: 15px;
+    letter-spacing: 1px;}
+  .top_header{font-size: 20px; font-family: IRANSans; background-color: #e0e0e0;} 
+  
+.mylogo{
+    padding: 20px 0;
+}
+
+.mylog_mail{ 
+    background-image: url(https://karshenasan.ir/dorsapax/Data/Sub_0/Template/Main/img/mail.jpg);
+    background-repeat: no-repeat; 
+    background-position: right 2px;
+    padding-right: 25px;
+    font-family: 'IRANSansbold';     font-size: 13px;
+  }
+  
+  .mylog_panel{
+    padding-right: 25px;
+    background-image: url(https://karshenasan.ir/dorsapax/Data/Sub_0/Template/Main/img/users.png);
+    background-repeat: no-repeat; 
+    background-position: right 2px; 
+    font-family: 'IRANSansbold';     font-size: 13px;
+}
+
+.mynav{
+    
+    font-family: IRANSans, tahoma;
+    direction: rtl;
+    outline: none !important;
+    background-color: #005e3a;
+
+}
+
+.mybuttn_orggren{
+    
+    background-color: #e0e0e0;
+    display: block;
+    margin-bottom: 5px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #565656;
+    font-family: 'IRANSansBold';
+    transition: all .5s;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.mybuttn_orggren:hover{
+    background-color: #ffad00;
+    color: #005e3a;
+}
+
+
+.my_span{
+    font-family: 20px;
+    color: #ffad00;
+}
+
+
+
+#zone8 .mysearch {
+
+    background-image: url(https://karshenasan.ir/Dorsapax/Data/Sub_0/Template/main/img/back-mysearch.jpg);
+    background-position: top;
+    padding: 40px 0;
+    border-top: 8px solid #e0e0e0;
+}
